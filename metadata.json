@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Mahadev - Sindhari, Barmer",
+  "description": "24/7 Pure Veg Family Dining & AC Lodging on RJ SH 28, Sindhari, Barmer, Rajasthan. Deluxe AC guest rooms, authentic Dal Baati Churma & Marwari cuisine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
